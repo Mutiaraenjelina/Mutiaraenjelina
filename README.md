@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi, I'm Mutiara Enjelina! 👋<br>🔭 I’m currently working on:<br><br>CBT System for SMK Negeri 2 Balige as Product Owner<br>Research Trainee Program at the University of Chicago<br>Exploring advanced topics in software testing and UI/UX<br>🌱 I’m currently learning:<br><br>Cryptographic security and academic research<br>Better English communication for professional environments<br>💬 Ask me about:<br><br>Managing student projects as a team lead<br>Database systems<br>Organizing academic tech events<br><br>
+# Hi, I'm Mutiara Enjelina! 👋
+
+🔭 **I’m currently working on**:
+- CBT System for SMK Negeri 2 Balige as **Product Owner**
+- Research Trainee Program at the **University of Chicago**
+- Exploring advanced topics in **Project Management** **software testing** and **UI/UX**
+
+🌱 **I’m currently learning**:
+- **Big Data** and academic research
+- Better **English communication** for professional environments
+
+👯 **I’m looking to collaborate on**:
+- **Backend/API development projects**
+- Student-led **digital innovation** or **community tech projects**
+
+💬 **Ask me about**:
+- Managing student projects as a **team lead**
+- **Database systems**
+- Organizing **academic tech events**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1ammutiara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mutiaraenjelina/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mutiaramanullang77@gmail.com) 
