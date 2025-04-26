@@ -4,7 +4,6 @@
 🔭 **I’m currently working on**:
 - CBT System for SMK Negeri 2 Balige as **Product Owner**
 - Research Trainee Program at the **University of Chicago**
-- Exploring advanced topics in **Project Management** **software testing** and **UI/UX**
 
 🌱 **I’m currently learning**:
 - **Big Data** and academic research
